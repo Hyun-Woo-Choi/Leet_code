@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0018-4sum](https://github.com/Hyun-Woo-Choi/Leet_code/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hyun-Woo-Choi/Leet_code/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hyun-Woo-Choi/Leet_code/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
