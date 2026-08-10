@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Hyun-Woo-Choi/Leet_code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0036-valid-sudoku/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0176-second-highest-salary/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0036-valid-sudoku/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->
