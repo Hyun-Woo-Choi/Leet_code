@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0037-sudoku-solver/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,8 +56,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0037-sudoku-solver/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0037-sudoku-solver/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0037-sudoku-solver/) | Hard |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0037-sudoku-solver/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
