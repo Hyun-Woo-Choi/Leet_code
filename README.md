@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Hyun-Woo-Choi/Leet_code/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Hyun-Woo-Choi/Leet_code/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0042-trapping-rain-water/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,10 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0041-first-missing-positive/) | Hard |
+| [0042-trapping-rain-water](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0042-trapping-rain-water/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/Hyun-Woo-Choi/Leet_code/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0042-trapping-rain-water/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Hyun-Woo-Choi/Leet_code/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0042-trapping-rain-water/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0037-sudoku-solver/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
