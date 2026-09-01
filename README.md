@@ -9,16 +9,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Hyun-Woo-Choi/Leet_code/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Hyun-Woo-Choi/Leet_code/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0038-count-and-say/) | Medium |
+| [0044-wildcard-matching](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0044-wildcard-matching/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Hyun-Woo-Choi/Leet_code/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Hyun-Woo-Choi/Leet_code/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0042-trapping-rain-water/) | Hard |
+| [0044-wildcard-matching](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0044-wildcard-matching/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Hyun-Woo-Choi/Leet_code/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0044-wildcard-matching/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0042-trapping-rain-water/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0044-wildcard-matching](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0044-wildcard-matching/) | Hard |
 <!---LeetCode Topics End-->
