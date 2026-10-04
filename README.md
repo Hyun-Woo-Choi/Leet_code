@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Hyun-Woo-Choi/Leet_code/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0038-count-and-say/) | Medium |
 | [0044-wildcard-matching](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0044-wildcard-matching/) | Hard |
+| [0049-group-anagrams](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0049-group-anagrams/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0047-permutations-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0049-group-anagrams/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0018-4sum](https://github.com/Hyun-Woo-Choi/Leet_code/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0047-permutations-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0049-group-anagrams/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0049-group-anagrams/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
