@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0049-group-anagrams/) | Medium |
+| [1929-concatenation-of-array](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0045-jump-game-ii/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
