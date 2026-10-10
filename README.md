@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0045-jump-game-ii/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0217-contains-duplicate/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1929-concatenation-of-array](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Hyun-Woo-Choi/Leet_code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0035-search-insert-position/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0045-jump-game-ii/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0410-split-array-largest-sum/) | Hard |
 <!---LeetCode Topics End-->
