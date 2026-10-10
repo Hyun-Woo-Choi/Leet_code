@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0217-contains-duplicate](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0217-contains-duplicate/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Hyun-Woo-Choi/Leet_code/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0049-group-anagrams/) | Medium |
+| [0217-contains-duplicate](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0217-contains-duplicate/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0217-contains-duplicate](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0217-contains-duplicate/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
