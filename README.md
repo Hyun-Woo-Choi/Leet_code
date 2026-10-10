@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0176-second-highest-salary/) | Medium |
+| [1757-recyclable-and-low-fat-products](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
