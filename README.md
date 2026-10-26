@@ -178,4 +178,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0278-first-bad-version/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0098-validate-binary-search-tree/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0098-validate-binary-search-tree/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0098-validate-binary-search-tree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0098-validate-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
