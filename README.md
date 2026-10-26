@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0035-search-insert-position/) | Easy |
 | [0278-first-bad-version](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0278-first-bad-version/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0875-koko-eating-bananas](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
