@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
