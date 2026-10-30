@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0217-contains-duplicate/) | Easy |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0525-contiguous-array](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0525-contiguous-array/) | Medium |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0344-reverse-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0035-search-insert-position/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0278-first-bad-version](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0278-first-bad-version/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Database
@@ -115,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0525-contiguous-array](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Matrix
