@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0344-reverse-string/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -251,4 +252,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 <!---LeetCode Topics End-->
