@@ -1,25 +1,21 @@
 class Solution:
     def checkValidString(self, s: str) -> bool:
-        left_stack = []
-        star_stack = []
+        cmin = cmax = 0 
 
-        for i, char in enumerate(s):
+        for char in s:
             if char == "(":
-                left_stack.append(i)
-            elif char == "*":
-                star_stack.append(i)
+                cmin += 1
+                cmax += 1
+            elif char == ")":
+                cmin = max(cmin - 1, 0)
+                cmax -= 1
             else:
-                if left_stack:
-                    left_stack.pop()
-                elif star_stack:
-                    star_stack.pop()
-                else:
-                    return False
-        
-        while left_stack and star_stack:
-            if left_stack[-1] > star_stack[-1]:
+                cmin = max(cmin - 1, 0) # if we use stare for opening
+                cmax += 1 # if we use star for closing 
+            
+            if cmax < 0: # there are no stars left
                 return False
-            left_stack.pop()
-            star_stack.pop()
         
-        return len(left_stack) == 0
+        return cmin == 0
+
+        
