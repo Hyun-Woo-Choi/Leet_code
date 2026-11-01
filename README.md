@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0045-jump-game-ii/) | Medium |
+| [0055-jump-game](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0118-pascals-triangle/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0049-group-anagrams/) | Medium |
+| [0055-jump-game](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0055-jump-game/) | Medium |
 | [0078-subsets](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0078-subsets/) | Medium |
 | [0118-pascals-triangle](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0118-pascals-triangle/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0045-jump-game-ii/) | Medium |
+| [0055-jump-game](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0678-valid-parenthesis-string/) | Medium |
