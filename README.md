@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0057-insert-interval/) | Medium |
 | [0078-subsets](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0078-subsets/) | Medium |
 | [0118-pascals-triangle](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0118-pascals-triangle/) | Easy |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Hyun-Woo-Choi/Leet_code/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0056-merge-intervals/) | Medium |
 | [0217-contains-duplicate](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0242-valid-anagram/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0253-meeting-rooms-ii/) | Medium |
@@ -295,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
