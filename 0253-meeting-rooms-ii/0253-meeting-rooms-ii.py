@@ -10,7 +10,7 @@ class Solution:
         heapq.heapify(rooms)
 
         for start, end in intervals[1:]:
-            
+
             if rooms[0] <= start:
                 heapq.heappop(rooms)
             
