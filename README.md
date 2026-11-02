@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0344-reverse-string/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,11 +111,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0042-trapping-rain-water/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Hyun-Woo-Choi/Leet_code/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
