@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0253-meeting-rooms-ii](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0743-network-delay-time](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0743-network-delay-time/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0207-course-schedule](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0207-course-schedule/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0743-network-delay-time](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0743-network-delay-time/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -266,11 +268,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0207-course-schedule/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0743-network-delay-time](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0743-network-delay-time/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0207-course-schedule/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0743-network-delay-time](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0743-network-delay-time/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -301,4 +305,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0056-merge-intervals/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0743-network-delay-time/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
