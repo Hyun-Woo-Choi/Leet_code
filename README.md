@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0217-contains-duplicate/) | Easy |
 | [0228-summary-ranges](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0228-summary-ranges/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Sorting
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0278-first-bad-version](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0278-first-bad-version/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0078-subsets/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -328,4 +332,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0743-network-delay-time/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/1514-path-with-maximum-probability/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
