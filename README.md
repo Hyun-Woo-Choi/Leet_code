@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/1929-concatenation-of-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
