@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
