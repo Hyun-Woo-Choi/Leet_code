@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Hyun-Woo-Choi/Leet_code/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0050-powx-n/) | Medium |
+| [1922-count-good-numbers](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/1922-count-good-numbers/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/0050-powx-n/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1922-count-good-numbers](https://github.com/Hyun-Woo-Choi/Leet_code/tree/main/1922-count-good-numbers/) | Medium |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
